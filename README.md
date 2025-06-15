@@ -132,3 +132,5 @@ This password manager is provided as-is, without any guarantees. While it implem
 - [Flet](https://flet.dev/) for the amazing UI framework
 - [Cryptography](https://cryptography.io/) for the encryption utilities
 - All contributors and users of this project
+
+![Password Manager Demo](pwd-mng.gif)

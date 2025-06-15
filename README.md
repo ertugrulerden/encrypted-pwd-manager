@@ -29,6 +29,9 @@ A modern, secure password manager built with Python and Flet, designed to keep y
 - **Password Generation**: Create strong, random passwords
 - **Copy to Clipboard**: One-click password copying
 
+
+![Password Manager Demo](pwd-mng.gif)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -133,4 +136,3 @@ This password manager is provided as-is, without any guarantees. While it implem
 - [Cryptography](https://cryptography.io/) for the encryption utilities
 - All contributors and users of this project
 
-![Password Manager Demo](pwd-mng.gif)

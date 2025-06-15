@@ -1,0 +1,2 @@
+flet>=0.10.0
+cryptography>=41.0.0 
